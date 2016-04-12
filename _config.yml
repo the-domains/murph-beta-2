@@ -1,0 +1,14 @@
+layout_spectrum: 0.96543
+typography_spectrum: 0.489882
+color:
+  lightness: 0.5876897
+  brandStrength: 0.06797809
+  saturation: 0.7006745
+  rhythmicContrast: 0.3448566
+  brandColors:
+    - '#FFFFFF'
+    - '#202730'
+    - '#655C5C'
+    - '#B4BDC6'
+    - '#AFA032'
+name: Murph Beta 2
